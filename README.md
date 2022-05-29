@@ -8,12 +8,12 @@
 
 ### Change current folder
 
-cd reactjs-test-photo
+    cd reactjs-test-photo
 
 ### Intstall dependencies
 
-npm i
+    npm i
 
 ### Start app
 
-npm run start
+    npm run start
