@@ -4,7 +4,7 @@
 
 ### Download App
 
-    https://github.com/kz-rmz/reactjs-test-photo.git
+    gh repo clone kz-rmz/reactjs-test-photo
 
 ### Change current folder
 
